@@ -1,0 +1,7 @@
+{
+  "name": "dotnet-tools",
+  "description": ".NET development toolkit — Central Package Management setup and migration for .NET projects",
+  "version": "1.0.0",
+  "author": { "name": "Tomasz Lesnik" },
+  "keywords": ["dotnet", "nuget", "csharp", "central-package-management", "cpm"]
+}

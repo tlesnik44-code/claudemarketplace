@@ -1,0 +1,47 @@
+{
+  "name": "claudemarketplace",
+  "owner": { "name": "Tomasz Lesnik" },
+  "metadata": {
+    "description": "Claude Code plugin marketplace - UX, workflow, AI agent, and .NET tools",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins/"
+  },
+  "plugins": [
+    {
+      "name": "ux-tools",
+      "source": "./plugins/frontend/ux-tools",
+      "description": "UX/UI design quality toolkit - enforce professional design standards, accessibility, and visual best practices in frontend projects",
+      "version": "1.0.0",
+      "category": "frontend",
+      "tags": ["ux", "ui", "design", "accessibility"],
+      "keywords": ["ux", "ui", "design", "accessibility", "frontend", "web", "mobile", "maui"]
+    },
+    {
+      "name": "dev-tools",
+      "source": "./plugins/workflow/dev-tools",
+      "description": "Development workflow tools - automated output verification and GitHub PR creation with AI usage labels",
+      "version": "1.0.0",
+      "category": "workflow",
+      "tags": ["workflow", "verification", "pull-request"],
+      "keywords": ["workflow", "verification", "pull-request", "github", "code-review"]
+    },
+    {
+      "name": "ai-tools",
+      "source": "./plugins/ai-agents/ai-tools",
+      "description": "AI agent management toolkit - skill creation, profile configuration, and multi-agent setup for Claude Code",
+      "version": "1.0.0",
+      "category": "ai-agents",
+      "tags": ["ai", "skills", "plugins", "agents"],
+      "keywords": ["ai", "skills", "plugins", "agents", "claude-code", "cursor", "windsurf"]
+    },
+    {
+      "name": "dotnet-tools",
+      "source": "./plugins/dotnet/dotnet-tools",
+      "description": ".NET development toolkit - Central Package Management setup and migration for .NET projects",
+      "version": "1.0.0",
+      "category": "dotnet",
+      "tags": ["dotnet", "nuget", "csharp"],
+      "keywords": ["dotnet", "nuget", "csharp", "central-package-management", "cpm"]
+    }
+  ]
+}

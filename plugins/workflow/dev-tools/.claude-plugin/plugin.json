@@ -1,0 +1,7 @@
+{
+  "name": "dev-tools",
+  "description": "Development workflow tools — automated output verification and GitHub PR creation with AI usage labels",
+  "version": "1.0.0",
+  "author": { "name": "Tomasz Lesnik" },
+  "keywords": ["workflow", "verification", "pull-request", "github", "code-review"]
+}

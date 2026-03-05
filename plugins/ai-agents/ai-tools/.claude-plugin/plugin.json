@@ -1,0 +1,7 @@
+{
+  "name": "ai-tools",
+  "description": "AI agent management toolkit — skill creation, profile configuration, and multi-agent setup for Claude Code",
+  "version": "1.0.0",
+  "author": { "name": "Tomasz Lesnik" },
+  "keywords": ["ai", "skills", "plugins", "agents", "claude-code", "cursor", "windsurf"]
+}

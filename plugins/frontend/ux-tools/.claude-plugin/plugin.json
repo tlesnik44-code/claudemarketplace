@@ -1,0 +1,7 @@
+{
+  "name": "ux-tools",
+  "description": "UX/UI design quality toolkit — enforce professional design standards, accessibility, and visual best practices in frontend projects",
+  "version": "1.0.0",
+  "author": { "name": "Tomasz Lesnik" },
+  "keywords": ["ux", "ui", "design", "accessibility", "frontend", "web", "mobile", "maui"]
+}
