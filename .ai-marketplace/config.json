@@ -1,0 +1,9 @@
+{
+  "marketplaces": [
+    {
+      "name": "tlesnik-marketplace",
+      "source": "local",
+      "path": "."
+    }
+  ]
+}

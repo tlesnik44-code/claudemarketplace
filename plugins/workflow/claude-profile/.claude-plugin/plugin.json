@@ -1,0 +1,9 @@
+{
+  "name": "claude-profile",
+  "description": "Manage multiple Claude Code + Desktop profiles (accounts, MCP configs). Switch between work/personal/client setups with isolated Desktop data dirs.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Tomasz Lesnik"
+  },
+  "keywords": ["profile", "config", "multi-account", "clp"]
+}

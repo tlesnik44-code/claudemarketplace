@@ -1,0 +1,7 @@
+{
+  "name": "sand-box",
+  "description": "Sandbox v2 — profile-based workspace isolation for Claude Code agents. Guardian hook protects agent settings and sand-box config from modification. Per-folder hooks enforce workspace boundaries, block sensitive files, and inspect scripts for escape attempts.",
+  "version": "2.0.0",
+  "author": { "name": "Tomasz Lesnik" },
+  "keywords": ["security", "sandbox", "hooks", "permissions", "isolation", "workspace", "profiles"]
+}

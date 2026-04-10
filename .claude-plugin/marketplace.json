@@ -42,6 +42,33 @@
       "category": "dotnet",
       "tags": ["dotnet", "nuget", "csharp"],
       "keywords": ["dotnet", "nuget", "csharp", "central-package-management", "cpm"]
+    },
+    {
+      "name": "claude-profile",
+      "source": "./plugins/workflow/claude-profile",
+      "description": "Manage multiple Claude Code + Desktop profiles — switch between work/personal/client configurations, accounts, and MCP setups with isolated Desktop data dirs",
+      "version": "1.1.0",
+      "category": "workflow",
+      "tags": ["profile", "config", "multi-account", "switching", "desktop"],
+      "keywords": ["profile", "config", "multi-account", "clp", "switching", "workspace", "desktop"]
+    },
+    {
+      "name": "sand-box",
+      "source": "./plugins/workflow/sand-box",
+      "description": "Sandbox v2 — profile-based workspace isolation with runtime config. Single hook, no generation. Protects agent settings, blocks sensitive files, inspects scripts, Haiku LLM last resort.",
+      "version": "2.0.0",
+      "category": "workflow",
+      "tags": ["security", "sandbox", "hooks", "isolation", "permissions", "profiles"],
+      "keywords": ["sandbox", "security", "isolation", "hooks", "permissions", "workspace", "profiles", "agent-safety"]
+    },
+    {
+      "name": "hook-master",
+      "source": "./plugins/workflow/hook-master",
+      "description": "Claude Code hooks toolkit — create, configure, and manage hooks across user, project, and local scopes with official documentation reference",
+      "version": "1.0.0",
+      "category": "workflow",
+      "tags": ["hooks", "automation", "PreToolUse", "PostToolUse", "permissions"],
+      "keywords": ["hooks", "claude-code", "automation", "PreToolUse", "PostToolUse", "permissions", "workflow", "configuration"]
     }
   ]
 }
